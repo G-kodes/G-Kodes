@@ -1,4 +1,11 @@
-<table width="100%">
+<style>
+table {
+    width: 100%;
+    border-color: transparent;
+}
+</style>
+
+<table>
     <tr>
         <td align="center">
             <p align="center">
