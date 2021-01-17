@@ -1,7 +1,9 @@
 
 <div align="center">
         <p align="center">
+            <img align="center" src="./assets/icon_left.png" height="120">
             <img align="center" src="./assets/icon.png" height="200">
+            <img align="center" src="./assets/icon_right.png" height="120">
         </p>
         <p align="center">
             <a href="https://www.linkedin.com/in/graeme-ford/" target="_blank">
