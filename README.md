@@ -1,20 +1,9 @@
-<style>
-table {
-    width: 100%;
-    border-color: transparent;
-}
-</style>
 
-<table>
-    <tr>
-        <td align="center">
-            <p align="center">
-                <img align="center" src="./assets/icon.png" height="200">
-            </p>
-        </td>
-    </tr>
-    <tr>
-        <td align="center">
+<div align="center">
+        <p align="center">
+            <img align="center" src="./assets/icon.png" height="200">
+        </p>
+        <p align="center">
             <a href="https://www.linkedin.com/in/graeme-ford/" target="_blank">
                 <img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/graeme-ford/" />
             </a>
@@ -24,9 +13,8 @@ table {
             <a href="mailto:graeme.ford@tuks.co.za?subject=GitHub Enquiry&body=Dear Graeme," target="_blank">
                 <img align="center" src="https://img.shields.io/badge/-Contact Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
             </a>
-        </td>
-    </tr>
-</table>
+        </p>
+</div>
 
 <hr>
 <h1 align="center">
