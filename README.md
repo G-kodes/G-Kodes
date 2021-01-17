@@ -21,7 +21,8 @@
     Hi there 👋. I'm  Graeme Ford!
 </h1>
 <h3 align="center">Coder | Researcher | Web-Developer </h3>
-
+<br>
+<br>
 <p align="center">
     I am a Bioinformatics researcher at the University of Pretoria in South Africa. I use the power of computors to answer the riddles of the human genome and to make some ✨pretty✨ websites on the side 😋.
 </p>
@@ -35,12 +36,13 @@
     <img src="https://img.shields.io/badge/-R-white?style=for-the-badge&logo=r&logoColor=white&labelColor=276DC3&color=white" />
     <img src="https://img.shields.io/badge/-PostgreSQL-white?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=336791&color=white" />
 </p>
-
+<br>
+<br>
 <h2 align="center"> A little more about me </h2>
 <p align="center">
     I am an avid programmer and web-developer but I am first and foremost an academic researcher. I am interested in understanding the underlying genetics behind diseases, more specifically how we treat them with drugs and the genetics behind how people respond to those drugs. I am currently pursuing my studies towards an MSc in Bioinformatics along my career path in academia!
 </p>
-
+<br>
 <table>
     <tr>
         <td>
