@@ -48,9 +48,7 @@
 <table>
     <tr>
         <td>
-        <a align="center" href="https://github.com/G-Kodes/github-readme-stats">
-            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G-Kodes">
-        </a>
+                <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=G_Kodes&custom_title=My%20Languages&layout=compact">
         </td>
         <td>
         <a align="center" href="https://open.spotify.com/user/cpt.-pork-chops">
