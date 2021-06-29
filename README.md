@@ -48,12 +48,12 @@
 <table>
     <tr>
         <td>
-            <a align="center" href="https://www.linkedin.com/in/graeme-ford/">
+            <a align="center" href="https://www.linkedin.com/in/graeme-ford/" target="_blank">
                 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=G_Kodes&custom_title=My%20Languages&layout=compact">
             </a>
         </td>
         <td>
-        <a align="center" href="https://open.spotify.com/user/cpt.-pork-chops">
+        <a align="center" href="https://open.spotify.com/user/cpt.-pork-chops" target="_blank">
             <img alt="What G-Kodes is listening to" align="center" src="https://g-kodes.vercel.app/api/spotify" />
         </a>
         </td>
