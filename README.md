@@ -48,7 +48,9 @@
 <table>
     <tr>
         <td>
+            <a align="center" href="https://www.linkedin.com/in/graeme-ford/">
                 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=G_Kodes&custom_title=My%20Languages&layout=compact">
+            </a>
         </td>
         <td>
         <a align="center" href="https://open.spotify.com/user/cpt.-pork-chops">
