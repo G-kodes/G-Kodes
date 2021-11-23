@@ -23,6 +23,9 @@
     Hi there 👋. I'm  Graeme Ford!
 </h1>
 <h3 align="center">Coder | Researcher | Web-Developer </h3>
+<div align="center" >
+        <a href="https://wakatime.com/@8e411aec-7d87-4a98-99d6-160efb073c73"><img src="https://wakatime.com/badge/user/8e411aec-7d87-4a98-99d6-160efb073c73.svg" alt="Total time coded since Mar 27 2020" /></a>
+</div>
 <br>
 <br>
 <p align="center">
