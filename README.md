@@ -13,16 +13,15 @@
 
 </div>
 
-I build the data pipelines an organisation runs on, then make them fast and reliable. Bioinformatics taught me to treat data as evidence; running a web studio taught me to agree what "done" means before anyone builds.
+I build the data pipelines an organisation runs on, then make them fast and reliable. Running a web studio on the side taught me what pipelines never do: agree what "done" means before anyone builds, then own the result after launch.
 
 ## 📈 Shipped to production
 
 | | |
 |:--|:--|
-| 🗂️ **20+ universities** | Ran a production pipeline indexing tens of thousands of Southern African research articles, with an ML classifier in the loop |
-| ⚡ **2 days → 15 min** | Moved a harvest out of the website and ran its fetches in parallel |
-| 🧬 **3 TB, 3,500 genomes** | Automated an HPC workflow, reproducible end to end |
-| 📄 **First author** | One peer-reviewed paper as first author, co-author on two more |
+| **20+ universities** | Ran a production pipeline indexing tens of thousands of Southern African research articles, with an ML classifier in the loop |
+| **2 days → 15 min** | Moved a harvest out of the website and ran its fetches in parallel |
+| **3 TB, 3,500 genomes** | Automated an HPC workflow, reproducible end to end |
 
 ## 📚 Public work
 
@@ -41,7 +40,7 @@ I build the data pipelines an organisation runs on, then make them fast and reli
 
 **Writing**
 
-- [Payment gateways in South Africa](https://thedesignhammock.co.za/resources/sell-online-in-south-africa/payment-gateways-south-africa): the six that SA stores actually use, compared
+- [Payment gateways in South Africa](https://thedesignhammock.co.za/resources/sell-online-in-south-africa/payment-gateways-south-africa): the six that SA stores use, compared
 - [Shipping and delivery in South Africa](https://thedesignhammock.co.za/resources/sell-online-in-south-africa/shipping-and-delivery-south-africa): couriers, cut-offs and lead times in one place
 - [Sell online in South Africa](https://thedesignhammock.co.za/resources/sell-online-in-south-africa): the full guide series
 
@@ -84,7 +83,7 @@ I build the data pipelines an organisation runs on, then make them fast and reli
 
 ## 🤖 How I work with AI
 
-I run my studio as an AI-operated business. Agents build and handle the admin; I design the rules, context and automated checks that make their output trustworthy, from a test that stops any unapproved claim reaching the site to my approval on anything outward-facing.
+AI agents do the building and the admin in my studio. My job is the part that makes their output trustworthy: the rules, the context and the automated checks. One test stops any claim I haven't approved from reaching the site, and nothing outward-facing goes out without my sign-off.
 
 ## 🐟 My koi
 

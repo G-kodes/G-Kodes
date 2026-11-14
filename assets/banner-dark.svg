@@ -20,5 +20,5 @@
 <line x1="730" y1="180" x2="1100" y2="180" stroke="#30363d" stroke-width="2" stroke-dasharray="4 6"/>
 <circle cx="730" cy="180" r="11" fill="#0d1117" stroke="#2dd4bf" stroke-width="2.5"/><text x="730" y="216" text-anchor="middle" class="mono" font-size="15" fill="#e6edf3">ingest</text><circle cx="915" cy="180" r="11" fill="#0d1117" stroke="#2dd4bf" stroke-width="2.5"/><text x="915" y="216" text-anchor="middle" class="mono" font-size="15" fill="#e6edf3">transform</text><circle cx="1100" cy="180" r="11" fill="#0d1117" stroke="#2dd4bf" stroke-width="2.5"/><text x="1100" y="216" text-anchor="middle" class="mono" font-size="15" fill="#e6edf3">load</text>
 <circle class="pk" cx="730" cy="180" r="5" style="animation-delay:0.0s" fill="#2dd4bf"/><circle class="pk" cx="730" cy="180" r="5" style="animation-delay:0.8s" fill="#f97316"/><circle class="pk" cx="730" cy="180" r="5" style="animation-delay:1.6s" fill="#2dd4bf"/><circle class="pk" cx="730" cy="180" r="5" style="animation-delay:2.4000000000000004s" fill="#2dd4bf"/><circle class="pk" cx="730" cy="180" r="5" style="animation-delay:3.2s" fill="#f97316"/>
-<text x="915" y="256" text-anchor="middle" class="mono" font-size="13" fill="#8b949e">fast · reliable · reproducible</text>
+<text x="915" y="256" text-anchor="middle" class="mono" font-size="13" fill="#8b949e">same input · same output · every run</text>
 </svg>
